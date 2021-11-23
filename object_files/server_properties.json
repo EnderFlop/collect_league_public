@@ -1,0 +1,26 @@
+{
+    "777302918977814538": {
+        "server": "sunsetdroid dev server",
+        "channel": 777302918977814541,
+        "minutes": 3,
+        "channel_name": "dev"
+    },
+    "311993123926573058": {
+        "server": "Lovely Sunset",
+        "channel": 779911246627078185,
+        "channel_name": "collect-league",
+        "minutes": 3
+    },
+    "110373943822540800": {
+        "server": "Discord Bots",
+        "channel": 110373943822540800,
+        "channel_name": "general",
+        "minutes": 3
+    },
+    "792490922981851156": {
+        "server": "Collect League Support",
+        "channel": 794334530143256576,
+        "channel_name": "collect_league_dev",
+        "minutes": 3
+    }
+}
